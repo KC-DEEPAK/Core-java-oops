@@ -1,0 +1,3 @@
+// In java creating a object is a most importent while creating a object we come across ..
+// to create a object main class is importent to create a object syntax is ..
+//SYNTAX-> class_name object_name=new class_name();...
