@@ -3,7 +3,7 @@
 
 class Computer
 {
-  // we use a public for we can we that method anywhere in class ...
+  // we use a public that  we can use that method anywhere in class ...
   // we use a int or void based on the condition we use a void when we are not returning anything from method..
   // we use a int where we are going to return somthing from that method..
   // we can pass a value in the method ..
