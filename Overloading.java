@@ -20,10 +20,10 @@ public class Overloading
   public static void main (String args[])
   {
     Calculator cal =new Calculator();
-    int result = cal.add(5,6,7);
+    int result_0 = cal.add(5,6,7);
     int result_1=cal.add(3,9);
     double result_2=cal.add(44.44,67.89);
-    System.out.println(result);
+    System.out.println(result_0);
     System.out.println(result_1);
     System.out.println(result_2);
   }
