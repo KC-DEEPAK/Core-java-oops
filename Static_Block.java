@@ -25,16 +25,16 @@ class Mobile
 }
 public class Static_Block
 {
-  public static void main(String args[]) throws ClassNotFoundException
+  public static void main(String args[])// throws ClassNotFoundException
   {
-    Class.forName("Mobile");// to run sattic block only ..
-    //Class.forName(className:"Mobile");
-    // Mobile obj1 =new Mobile();
+    //Class.forName("Mobile");// to run sattic block only ..
+   // Class.forName(className:"Mobile");
+    Mobile obj1 =new Mobile();
     // obj1.brand="Apple";
     // obj1.price=1500;
     // Mobile.name="smartphone";
 
-    // Mobile obj2=new Mobile();
-    // Mobile obj3=new Mobile();
+    Mobile obj2=new Mobile();
+    Mobile obj3=new Mobile();
   }
 }
