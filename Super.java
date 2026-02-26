@@ -26,6 +26,7 @@ class B extends A
   }
   public B(int n)
   {
+    //super(n);//we know its call A class paramitirized constructor..
     this();// see what is the use is when we call the parameter is n it call super class of parameter..
     System.out.println("Its B int");
 
