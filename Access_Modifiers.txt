@@ -1,0 +1,17 @@
+ we have a access modifiers are 1) public 2) private 3) protected 4) default 
+
+1) Public we want to access the outside the package we always make public it easy to access.
+ -> it can access by any where ..
+
+2) Private which we can use in a same class we do not access it in out side the class ..
+
+3) default -> which we can access it in same package but not out side the package..
+
+4) Protected -> which we can use in the sameclass ,samepackage subclass , not work in otherPackages ..
+
+We have question which one is to use ?..
+  -> we try to make your class as public 
+  -> try to keep instence variable as private..
+  -> methods should be in public ..
+  -> do not use default so much..
+  
