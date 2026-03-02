@@ -15,7 +15,7 @@ final class Calc //when we inherit from super class it is final we not able to a
     System.out.println(n1+n2);
   }
 }
-// class AdvCalc extends Calc //when we inherit from super class it is final we not able to access that class ..
+// class AdvCalc extends Calc //when we inherit from super class it is final we not able to access that class
 // {
 //   public void show1()//show() in AdvCalc cannot override show() in Calc
 //   {
