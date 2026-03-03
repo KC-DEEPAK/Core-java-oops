@@ -1,6 +1,6 @@
 //NOW we are back to the concept of Upcasting & Downcasting we know casting the when we convert a double to int
 //we can do the casting in Example-> double n=4.5;
-                                //   int i = (int) n;..
+                                    //   int i = (int) n;..
 // public static void main(String args[])
   // {
   //   double n = 5.6;
