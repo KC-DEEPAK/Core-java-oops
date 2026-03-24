@@ -1,0 +1,32 @@
+Exception are Unwanted Event which occurs during Program Execution it stops Normal flow of
+Program ..
+WE Have a Diffrent Types of Exception Are ...
+
+1) Complie Time Error .
+      -> In which it occurs when we do the Spelling Mistake and error in Syntax This are called Complie Time Error..
+
+
+2) Run Time Error..
+      ->Which occurs During a Execution or it due to invalid Operation Unexpected Syntax..
+
+      Common Cause of this by ..
+      ->Divided by Zero Error & Array index out of bound..
+
+3) Logical Error..
+    -> In Which Logical Error is Logical of Program Where code Runs Succcesfully out wrong Output ..
+    Example -> 
+    public class Sum
+    {
+      public static void main(String args[])
+      {
+        int a =12 , int b =10;
+        int sum = a - b ;
+        System.out.println(sum);
+
+      }
+    }
+    In the above code is Logically error because of we given the variable name as a 
+    Sum and Doing operation Minus Operation 
+    Expecting output -> 22..
+    Real Output is -> 2..
+    
