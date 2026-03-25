@@ -14,7 +14,7 @@ public class Throw_Keyword
       {
         throw new ArithmeticException();
       } //throw which helps if the block contain a exception 
-      // is there it will throw to  catch and it print default..
+      //is there it will throw to  catch and it print default..
     }
     catch(ArithmeticException e)
     {
@@ -22,5 +22,6 @@ public class Throw_Keyword
       System.out.println("It is a default output ..");
     }
     System.out.println(j);
+    
   }
 }
